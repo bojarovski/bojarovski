@@ -1,6 +1,6 @@
 # 🌟 Welcome to My GitHub Profile! 🌟
 
-Hi, I'm [Your Name]! 👋  
+Hi, I'm Mario Bojarovski! 👋  
 I'm a passionate developer with expertise in multiple programming languages and technologies.
 
 ---
