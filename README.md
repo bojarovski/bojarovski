@@ -1,6 +1,6 @@
 # 🌟 Welcome to My GitHub Profile! 🌟
 
-Hi, I'm Mario Bojarovski! 👋  
+Hi, I'm Bojarovski! 👋  
 I'm a passionate developer with expertise in multiple programming languages and technologies.
 
 ---
@@ -25,7 +25,7 @@ I'm a passionate developer with expertise in multiple programming languages and 
 ## 🔥 Streak Stats
 
 <p align="center">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=bojarovski&theme=radical" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bojarovski&theme=radical" alt="GitHub Streak Stats" />
 </p>
 
 ---
@@ -39,14 +39,6 @@ I'm a passionate developer with expertise in multiple programming languages and 
 ---
 
 ## 🌍 Contribution Heatmap
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bojarovski&count_private=true&theme=radical&hide=contribs" alt="Heatmap" />
-</p>
-
----
-
-## 🧮 Commits Per Day
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bojarovski&theme=radical" alt="Commits Per Day" />
@@ -64,6 +56,5 @@ I'm a passionate developer with expertise in multiple programming languages and 
 
 ### 📫 Connect with Me:
 
-- 💼 [LinkedIn](https://linkedin.com/in/yourlinkedin)
-- 🐦 [Twitter](https://twitter.com/yourtwitter)
-- 📧 Email: yourname@example.com
+- 💼 [LinkedIn](https://linkedin.com/in/bojarovskimario)
+- 📧 Email: bojarovskimario@gmail.com
