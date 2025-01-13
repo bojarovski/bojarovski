@@ -25,7 +25,7 @@ I'm a passionate developer with expertise in multiple programming languages and 
 ## 🔥 Streak Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bojarovski&theme=radical" alt="GitHub Streak Stats" />
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=bojarovski&theme=radical" alt="GitHub Streak Stats" />
 </p>
 
 ---
