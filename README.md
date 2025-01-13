@@ -16,8 +16,8 @@ I'm a passionate developer with expertise in multiple programming languages and 
 ## 📈 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bojarovski&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bojarovski&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
@@ -25,7 +25,7 @@ I'm a passionate developer with expertise in multiple programming languages and 
 ## 🔥 Streak Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bojarovski&theme=radical" alt="GitHub Streak Stats" />
 </p>
 
 ---
@@ -33,7 +33,7 @@ I'm a passionate developer with expertise in multiple programming languages and 
 ## 🚀 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=yourusername&theme=react-dark" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=bojarovski&theme=react-dark" alt="GitHub Activity Graph" />
 </p>
 
 ---
@@ -41,7 +41,7 @@ I'm a passionate developer with expertise in multiple programming languages and 
 ## 🌍 Contribution Heatmap
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&count_private=true&theme=radical&hide=contribs" alt="Heatmap" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bojarovski&count_private=true&theme=radical&hide=contribs" alt="Heatmap" />
 </p>
 
 ---
@@ -49,7 +49,7 @@ I'm a passionate developer with expertise in multiple programming languages and 
 ## 🧮 Commits Per Day
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yourusername&theme=radical" alt="Commits Per Day" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bojarovski&theme=radical" alt="Commits Per Day" />
 </p>
 
 ---
@@ -57,7 +57,7 @@ I'm a passionate developer with expertise in multiple programming languages and 
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&row=1&column=6" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=bojarovski&theme=radical&row=1&column=6" alt="GitHub Trophies" />
 </p>
 
 ---
