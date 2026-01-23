@@ -8,7 +8,7 @@ I'm a passionate developer with expertise in multiple programming languages and 
 ## 🖥️ Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,python,java,html,css,react,vue,laravel" alt="Languages and Tools" />
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,docker,bash,python,java,html,css,react,vue,laravel" alt="Languages and Tools" />
 </p>
 
 ---
